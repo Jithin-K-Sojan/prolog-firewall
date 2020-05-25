@@ -1,0 +1,21 @@
+0000111a;Echo Protocol
+0001001a;Discard Protocol
+0001011a;Daytime Protocol
+0010010a;Message Send Protocol
+0010011a;Character Generator Protocol
+0010100a;File Transfer Protocol Data Transfer
+0010101a;File Transfer Protocol control
+0010111a;Telnet Protocol
+0011001a;Simple Mail Transfer Protocol
+0100101a;Time Protocol
+0100110a;Route Access Protocol
+0100111a;Resource Location Protocol
+0101010a;Host Name Server Protocol
+0101011a;WHOIS Protocol
+0110010a;Remote Mail Checking Protocol
+0110101a;Domain Name System
+1000101a;Trivial File Transfer Protocol
+1000110a;Gopher Protocol
+1001111a;Finger Protocol
+1010000a;Hypertext Transfer Protocol
+end;

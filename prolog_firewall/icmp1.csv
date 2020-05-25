@@ -1,0 +1,31 @@
+1;00000000a;00000000a;Echo Reply
+1;00000011a;00000000a;Destination network unreachable
+1;00000011a;00000001a;Destination host unreacahable
+1;00000011a;00000010a;Destination protocol unreachable
+1;00000011a;00000011a;Destination port unreachable
+1;00000011a;00000100a;Fragmentation required
+1;00000011a;00000101a;Source route failed
+1;00000101a;00000000a;Redirect Datagram for the Network
+1;00000101a;00000001a;Redirect Datagram for the Host
+1;00000101a;00000010a;Redirect Network for the ToS and Network
+1;00000101a;00000011a;Redirect Network for the ToS and Host
+1;00001000a;00000000a;Echo Request
+1;00001001a;00000000a;Router Advertisement
+1;00001010a;00000000a;Router Discovery/Selection
+1;00001011a;00000000a;TTL expired in transit
+1;00001011a;00000001a;Fragment reassembly time exceeded
+2;00000001a;00000000a;no route to destination
+2;00000001a;00000001a;communication with destination administratively prohibited
+2;00000001a;00000010a;beyond scope of source address
+2;00000001a;00000011a;address unreachable
+2;00000001a;00000100a;port unreachable
+2;00000010a;00000000a;Packet Too Big
+2;00000011a;00000000a;Hop Limit Exceeded in Transit
+2;00000011a;00000001a;Fragment reassembly time exceeded
+2;00000100a;00000000a;Erroneous header field encountered
+2;00000100a;00000001a;Unrecognized Next Header type encountered
+2;10000000a;00000000a;Echo Request
+2;10000001a;00000000a;Echo Reply
+2;10000011a;00000000a;Multicast Listener Report
+2;10001001a;00000000a;Redirect Message
+end;;;
